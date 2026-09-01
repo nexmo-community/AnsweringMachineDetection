@@ -2,5 +2,5 @@ python-dotenv
 nexmo
 numba==0.48
 librosa
-tornado==4.2
+tornado==6.5.8
 webrtcvad
